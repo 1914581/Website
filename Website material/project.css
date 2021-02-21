@@ -1,0 +1,113 @@
+#navbar{
+    background-color: floralwhite;
+    text-align: left;
+}
+
+#navbar li{
+    display: inline;    
+}
+
+#navbar a{
+    font-family: fantasy;
+    padding-right: 30px;
+}
+body{
+    background-color: black;
+    margin: 10px;
+    width: 90%;
+    text-align: center;
+}
+
+#main-header{
+    text-align: center;
+    font-size: 24px;
+    font-family: cursive;
+    color: burlywood;
+}
+
+img{
+    border: 2px dotted white;
+    border-radius: 10px; 
+}
+
+p{
+    color: antiquewhite;
+    margin: auto;
+    line-height: normal;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-align: left;
+}
+
+h1{
+    color: burlywood;
+    text-align: center;
+    font-family: cursive;
+    font-size: 36px;
+}
+
+blockquote{
+    font-family: fantasy;
+    color: floralwhite;
+    font-size: 18px;
+    border-radius: 15px;
+    border: dotted 2px white;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+strong{
+    color: burlywood;
+    text-decoration: overline;
+}
+
+h2{
+    font-family: monospace;
+    color: antiquewhite;
+    font-size: 30px;
+}
+
+.fix-me{
+    position: fixed;
+    top: 300px;
+    right: 10px;
+    color: burlywood;
+    font-family: monospace;
+    background-color: antiquewhite;
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: burlywood;
+}
+
+a:hover{
+    color: beige;
+}
+
+.categories ul{
+    list-style: none;
+}
+
+.p-box{
+    position: relative;
+    text-align: left;
+}
+
+.next {
+    position: absolute;
+    right: 10px;
+}
+
+article{
+    color: burlywood;
+    font-family: cursive;
+    font-size: 20px;
+    font-style: oblique;
+}
+#main-footer{
+    font-style: italic;
+}
